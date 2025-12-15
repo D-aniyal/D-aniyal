@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @D-aniyal
 - 👀 I’m interested in Java programmibng
-- 🌱 I’m currently learning  Data Science 
+- 🌱 I’m currently learning  Data Science
+- "B.Tech Student at [Anjuman-I-Islam's Kalsekar Technical Campus]"
 - 📫 How to reach me 
 reach me at z3puo6jn@duck.com
 - 😄 Pronouns: HE/HIM

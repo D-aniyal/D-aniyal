@@ -37,17 +37,17 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=D-aniyal&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=D-aniyal&theme=tokyonight&cache_id=20260409" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=D-aniyal&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=D-aniyal&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=D-aniyal&theme=tokyonight&cache_id=20260409" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=D-aniyal&theme=tokyonight&cache_id=20260409" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=D-aniyal&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=D-aniyal&theme=tokyonight&utcOffset=5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=D-aniyal&theme=tokyonight&cache_id=20260409" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=D-aniyal&theme=tokyonight&utcOffset=5.5&cache_id=20260409" />
 </p>
 
 ---

@@ -31,7 +31,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=D-aniyal&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=D-aniyal&theme=tokyonight&hide_border=false&cache_id=20260409" alt="GitHub Streak" />
 </p>
 
 ---

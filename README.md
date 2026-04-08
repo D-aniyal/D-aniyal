@@ -10,7 +10,6 @@
 
 <img src="https://img.shields.io/badge/CSE-Data%20Science-58A6FF?style=for-the-badge&logo=databricks&logoColor=white" />
 <img src="https://img.shields.io/badge/Full%20Stack-Developer-06D6A0?style=for-the-badge&logo=code&logoColor=white" />
-<img src="https://img.shields.io/badge/SIH-Winner-F72585?style=for-the-badge&logo=trophy&logoColor=white" />
 <img src="https://img.shields.io/badge/India-🇮🇳-FF9933?style=for-the-badge" />
 
 </div>

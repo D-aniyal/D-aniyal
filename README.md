@@ -31,6 +31,12 @@
 # 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=D-aniyal&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=D-aniyal&theme=tokyonight" />
 </p>
 

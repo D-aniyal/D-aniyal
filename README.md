@@ -109,8 +109,6 @@
 
 # 🌐 Connect With Me
 
-# 🌐 Connect With Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/mirza-daniyal-baig-0b529b228/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="55" />

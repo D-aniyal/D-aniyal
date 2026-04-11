@@ -119,6 +119,9 @@
   <a href="https://github.com/D-aniyal">
     <img src="https://skillicons.dev/icons?i=github" height="55" />
   </a>
+  <a href="https://tryhackme.com/p/niggg">
+    <img src="https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white" height="55" />
+  </a>
 </p>
 
 ---

@@ -120,7 +120,7 @@
     <img src="https://skillicons.dev/icons?i=github" height="55" />
   </a>
   <a href="https://tryhackme.com/p/niggg">
-    <img src="https://img.shields.io/badge/--111927?style=flat&logo=tryhackme&logoColor=white" height="55" width="55" />
+    <img src="https://img.shields.io/badge/--111927?style=flat&logo=tryhackme&logoColor=white" height="45" width="45" />
   </a>
 </p>
 ---

@@ -110,18 +110,9 @@
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mirza-daniyal-baig-0b529b228/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
-  </a>
-  <a href="mailto:23ds45@aiktc.ac.in">
-    <img src="https://skillicons.dev/icons?i=gmail" height="55" />
-  </a>
-  <a href="https://github.com/D-aniyal">
-    <img src="https://skillicons.dev/icons?i=github" height="55" />
-  </a>
-  <a href="https://tryhackme.com/p/niggg">
-    <img src="https://img.shields.io/badge/--111927?style=flat&logo=tryhackme&logoColor=white" height="45" width="45" />
-  </a>
+  <a href="https://www.linkedin.com/in/mirza-daniyal-baig-0b529b228/"><img src="https://skillicons.dev/icons?i=linkedin" height="55" /></a>
+  <a href="mailto:23ds45@aiktc.ac.in"><img src="https://skillicons.dev/icons?i=gmail" height="55" /></a><a href="https://github.com/D-aniyal"><img src="https://skillicons.dev/icons?i=github" height="55" /></a>
+  <a href="https://tryhackme.com/p/niggg"><img src="https://img.shields.io/badge/--111927?style=flat&logo=tryhackme&logoColor=white" height="45" width="45" /></a>
 </p>
 ---
 

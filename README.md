@@ -110,9 +110,12 @@
 ### 🌐 Connect With Me
 
 <div align="center">
-
-[<img src="https://skillicons.dev/icons?i=linkedin" height="55" />](https://www.linkedin.com/in/mirza-daniyal-baig-0b529b228/) [<img src="https://skillicons.dev/icons?i=gmail" height="55" />](mailto:23ds45@aiktc.ac.in) [<img src="https://skillicons.dev/icons?i=github" height="55" />](https://github.com/D-aniyal) [<img src="https://img.shields.io/badge/--111927?style=flat&logo=tryhackme&logoColor=white" height="50" width="50" />](https://tryhackme.com/p/niggg)
-
+  <table><tr>
+    <td><a href="https://www.linkedin.com/in/mirza-daniyal-baig-0b529b228/"><img src="https://skillicons.dev/icons?i=linkedin" height="55" /></a></td>
+    <td><a href="mailto:23ds45@aiktc.ac.in"><img src="https://skillicons.dev/icons?i=gmail" height="55" /></a></td>
+    <td><a href="https://github.com/D-aniyal"><img src="https://skillicons.dev/icons?i=github" height="55" /></a></td>
+    <td><a href="https://tryhackme.com/p/niggg"><img src="https://img.shields.io/badge/--111927?style=flat&logo=tryhackme&logoColor=white" height="55" width="55" /></a></td>
+  </tr></table>
 </div>
 <p align="center">
   <b>⭐ If you like my work, consider giving a star to my repositories! ⭐</b>

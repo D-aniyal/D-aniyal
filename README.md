@@ -109,11 +109,20 @@
 
 ### 🌐 Connect With Me
 
-<div align="center">
-
-[<img src="https://skillicons.dev/icons?i=linkedin" width="50" />](https://www.linkedin.com/in/mirza-daniyal-baig-0b529b228/) [<img src="https://skillicons.dev/icons?i=gmail" width="50" />](mailto:23ds45@aiktc.ac.in) [<img src="https://skillicons.dev/icons?i=github" width="50" />](https://github.com/D-aniyal) [<img src="https://img.shields.io/badge/--111927?style=flat-square&logo=tryhackme&logoColor=white" width="50" height="50" />](https://tryhackme.com/p/YOUR_THM_USERNAME)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mirza-daniyal-baig-0b529b228/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn" />
+  </a>
+  <a href="mailto:23ds45@aiktc.ac.in">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" alt="Gmail" />
+  </a>
+  <a href="https://github.com/D-aniyal">
+    <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" />
+  </a>
+  <a href="https://tryhackme.com/p/YOUR_THM_USERNAME">
+    <img src="https://img.shields.io/badge/--111927?style=flat-square&logo=tryhackme&logoColor=white" width="50" height="50" alt="TryHackMe" />
+  </a>
+</p>
 <p align="center">
   <b>⭐ If you like my work, consider giving a star to my repositories! ⭐</b>
 </p>
